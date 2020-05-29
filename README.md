@@ -1,4 +1,5 @@
 # SimuladorDePedagio
+--------------------------------------------------------------------------------------------------------------------------------------
 1-Crie as classes Automóvel, Caminhão e Motocicleta. Considere que eles são Veículos (devem ter ao menos o
 número de eixos e um saldo para pagamento de pedágios).
 --------------------------------------------------------------------------------------------------------------------------------------
