@@ -7,8 +7,11 @@ número de eixos e um saldo para pagamento de pedágios).
 o valor do pedágio por eixo e o valor total recebido pela cabine.
 Na classe CabinePedagio crie um método que permita a passagem de veículos, fazendo o debito do saldo do
 veículo e o credito no total recebido pela cabine seguindo as regras:
+
 • Motocicleta multiplicar o valor por 0,5
+
 • Automóveis multiplicar o valor por 1
+
 • Caminhão multiplicar o valor por 2
 ----------------------------------------------------------------------------------------------------------------------------------------
 3) Crie na classe principal (Program) uma lista de Veículos e uma lista de CabinePedagio, apresentar um menu que
