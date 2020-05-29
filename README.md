@@ -16,10 +16,18 @@ permita:
 
 
 1 – Criar Automóvel
+
 2 – Criar Caminhão
+
+
 3 – Criar Motocicleta
+
 4 – Criar Cabine Pedágio
+
 5 – Listar Automóveis
+
 6 – Listar Cabines Pedágio
+
 7 – Passar Veículo (escolher veículo e cabine)
+
 8 – Sair
